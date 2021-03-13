@@ -16,7 +16,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:rj3696@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pratheekkmurthy516%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:rj3696@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rj3696@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ### Languages and Tools:
