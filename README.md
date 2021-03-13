@@ -35,5 +35,4 @@
 <br/>
 <br/>
 
-###
-//![Pratheek's github stats](https://github-readme-stats.vercel.app/api?username=pratheekmurthy&show_icons=true&theme=radical&bg_color=#ffffff)
+
